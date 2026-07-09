@@ -1,21 +1,23 @@
 {
   "name": "@ai-native-solutions/fallnet-sdk",
   "version": "1.0.0",
-  "description": "Sovereign peer-to-peer mesh SDK. WebRTC datachannel + BroadcastChannel discovery. Zero servers, browser-to-browser.",
+  "description": "fallnet SDK · sovereign single-file library extracted from fallnet/index.html",
   "type": "module",
   "main": "src/index.js",
-  "exports": {
-    ".": "./src/index.js"
+  "types": "src/index.d.ts",
+  "files": ["src", "docs", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test test/",
+    "smoke": "node examples/smoke.js"
   },
-  "files": ["src", "README.md", "LICENSE"],
-  "keywords": ["webrtc", "p2p", "mesh", "sovereign", "broadcastchannel", "datachannel", "peer-to-peer"],
-  "author": "AI Native Solutions",
+  "keywords": ["fallnet", "sdk", "sovereign", "ai-native-solutions"],
+  "author": "AI-Native Solutions",
   "license": "MIT",
-  "homepage": "https://sjgant80-hub.github.io/fallnet-sdk/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjgant80-hub/fallnet-sdk.git"
+    "url": "https://github.com/sjgant80-hub/fallnet-sdk.git"
   },
+  "homepage": "https://sjgant80-hub.github.io/fallnet-sdk/",
   "publishConfig": {
     "access": "public"
   }
