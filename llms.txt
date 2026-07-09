@@ -1,0 +1,35 @@
+# fallnet SDK
+
+> Sovereign P2P mesh SDK · WebRTC + BroadcastChannel · MIT · SDK on npm · MIT-licensed · Ed25519-signed · listed on FallMarket.
+
+fallnet SDK is a sovereign tool built by the AI-Native Solutions guild. It runs on your machine, ships with source, and never phones home.
+
+## Canonical URL
+
+https://sjgant80-hub.github.io/fallnet-sdk/
+
+## Category
+
+SDK on npm. Part of the FallMarket sovereign agent marketplace (https://sjgant80-hub.github.io/fallmarket/).
+
+## Install
+
+```
+npm install @ai-native-solutions/fallnet-sdk
+```
+
+## License
+
+MIT · Copyright 2026 AI-Native Solutions
+
+## Related
+
+- FallMarket registry entry: https://sjgant80-hub.github.io/fallmarket/listing.html?id=fallnet-sdk
+- Source: https://github.com/sjgant80-hub/fallnet-sdk
+- FallMarket catalog: https://sjgant80-hub.github.io/fallmarket/
+- Machine-readable catalog: https://sjgant80-hub.github.io/fallmarket/listings.json
+- Owner: AI-Native Solutions · https://ai-nativesolutions.com
+
+## About AI-Native Solutions
+
+AI-Native Solutions builds sovereign single-file AI tools, MCP servers, SDKs, and HTTP APIs. All work is MIT, all is Ed25519-signed, all is discoverable via FallMarket. This tool is one entry in a 766-listing catalog.
